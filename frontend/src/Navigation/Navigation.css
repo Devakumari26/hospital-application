@@ -1,0 +1,12 @@
+.navbar{
+    background-color: aquamarine;
+    display: flev;
+    justify-content: space-evenly;
+
+}
+.navbar a{
+    text-decoration:none;
+    font-weight: bold;
+    padding: 10px;
+    color: black;
+}
